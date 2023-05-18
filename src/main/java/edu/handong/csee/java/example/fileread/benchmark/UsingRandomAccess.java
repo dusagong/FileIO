@@ -24,6 +24,6 @@ public class UsingRandomAccess {
         long duration2 = StopWatch.stop();
         System.out.println(duration2 + " milsec");
         
-        file2.close();;
+        file2.close();
     }
 }
